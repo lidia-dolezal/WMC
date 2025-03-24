@@ -1,0 +1,86 @@
+.navbar {
+    background-color: black;
+}
+
+nav * {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: 600;
+}
+
+.help-center {
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+
+#button1 {
+    background-color: #222423;
+    border-radius: 5px;
+    border-color: white;
+    border-width: 1px;
+}
+
+#button1 span {
+    padding: 8px;
+}
+
+#button2 {
+    background-color: #4843b0;
+    border-color: #4843b0;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+#button2 span {
+    padding: 8px;
+}
+
+header {
+    background-color: #a7a5d4;
+    text-align: center;
+    color: black;
+    padding-top: 45px;
+}
+
+search {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.main {
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+table td {
+    padding-bottom: 50px;
+}
+
+table a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-left: 12px;
+}
+
+li::marker {
+    color: black;
+}
+
+ul {
+    display: inline-block;
+    color: white;
+}
+
+.right {
+    padding-left: 75%;
+}
